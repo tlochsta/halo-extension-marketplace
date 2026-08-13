@@ -3,7 +3,7 @@
     "id": "ext-fps-counter",
     "name": "FPS Counter",
     "versions": [
-      { "version": "latest", "downloadUrl": "https://raw.githubusercontent.com/tlochsta/halo-extension-marketplace/refs/heads/main/extensions/%40halo/fps-counter/latest.js" },
+      { "version": "latest", "downloadUrl": "https://raw.githubusercontent.com/tlochsta/halo-extension-marketplace/refs/heads/main/extensions/%40halo/fps-counter/latest.js" }
     ],
     "description": "Displays a real-time frames-per-second indicator overlay and system widget.",
     "author": "@halo",
