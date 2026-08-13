@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ext-fps-counter",
+    "name": "FPS Counter",
+    "versions": [
+      { "version": "latest", "downloadUrl": "https://raw.githubusercontent.com/tlochsta/halo-extension-marketplace/refs/heads/main/extensions/%40halo/fps-counter/latest.js" },
+    ],
+    "description": "Displays a real-time frames-per-second indicator overlay and system widget.",
+    "author": "@halo",
+    "tags": ["Utility", "HUD"]
+  },
+  {
+    "id": "ezinstall",
+    "name": "EZinstall",
+    "versions": [
+      { "version": "1.2.0", "downloadUrl": "https://raw.githubusercontent.com/tlochsta/halo-extension-marketplace/refs/heads/main/extensions/%40tlochsta/ezinstall/latest.js" }
+    ],
+    "description": "Install game packs from a URL or shareable link.",
+    "author": "@tlochsta",
+    "tags": ["Utility"]
+  }
+]
