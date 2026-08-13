@@ -398,7 +398,7 @@ https://raw.githubusercontent.com/tlochsta/halo-extension-marketplace/refs/heads
 
 To create yours, take the URL from the template and replace:
 
-* `%40USERPROFILE` → your profile folder
+* `USERPROFILE` → your profile folder (be sure to keep the "%40" before the name with NO space as that is the encoded form of @)
 * `EXTENSIONID` → your extension folder
 * `FILENAME.js` → the exact filename of the version
 
